@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/10 11:41:43.000.879,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 11:45:13.000.513,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Login.fmx</Transaction>
+    <Transaction>2019/07/10 11:45:13.000.513,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Login.pas</Transaction>
+    <Transaction>2019/07/10 11:45:19.000.595,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\APPPDV.dproj</Transaction>
+    <Transaction>2019/07/10 13:06:33.000.116,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 13:06:46.000.679,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Modulo.pas</Transaction>
+    <Transaction>2019/07/10 13:06:46.000.679,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.dfm=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Modulo.dfm</Transaction>
+    <Transaction>2019/07/10 14:01:11.000.266,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 14:01:21.000.543,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Menu.pas</Transaction>
+    <Transaction>2019/07/10 14:01:21.000.543,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Menu.fmx</Transaction>
+    <Transaction>2019/07/10 16:04:23.000.159,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 16:04:43.000.312,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Vendas.fmx</Transaction>
+    <Transaction>2019/07/10 16:04:43.000.312,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Vendas.pas</Transaction>
+    <Transaction>2019/07/10 19:04:09.000.878,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 19:04:26.000.754,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Movimentacoes.pas</Transaction>
+    <Transaction>2019/07/10 19:04:26.000.754,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Movimentacoes.fmx</Transaction>
+    <Transaction>2019/07/10 20:29:51.000.756,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 20:30:05.000.753,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Produtos.pas</Transaction>
+    <Transaction>2019/07/10 20:30:05.000.753,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Produtos.fmx</Transaction>
+    <Transaction>2019/07/10 20:30:34.000.544,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 20:30:43.000.502,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Gastos.pas</Transaction>
+    <Transaction>2019/07/10 20:30:43.000.502,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Gastos.fmx</Transaction>
+    <Transaction>2019/07/10 21:34:20.000.117,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 21:34:48.000.743,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\EstoqueBaixo.pas</Transaction>
+    <Transaction>2019/07/10 21:34:48.000.743,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\EstoqueBaixo.fmx</Transaction>
+    <Transaction>2019/07/10 22:29:50.000.808,=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas</Transaction>
+    <Transaction>2019/07/10 22:36:15.000.256,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.fmx=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\InserirGastos.fmx</Transaction>
+    <Transaction>2019/07/10 22:36:15.000.256,C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\Unit1.pas=C:\Users\hugov\Documents\Embarcadero\Studio\Projects\APP PDV\InserirGastos.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android="42001d5ff2f4b4dd"/>
+	</ActiveMobileDevice>
+</BorlandProject>
